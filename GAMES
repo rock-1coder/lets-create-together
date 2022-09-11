@@ -1,7 +1,9 @@
 #your task is to add some classic games that are usually played in pair by children. you have to write code in such way that the game 
 # can be played by indivudual with computer. the code should be simple so that children can get encrouged to make the code themselves. basically main aim is promote
-# coding through games. add code of your game under this part only. just add a comment "NEW GAME" before adding your game code after someone others.I will separate them
-#myself. Do not remove this written part as it will help other to understand what to do. DO NOT FORGET TO READ CONTRIBUTION GUIDLINES FILE.
+# coding through games. add code of your game under this part only.
+#python language is preferred since its beginner friendly. But can use any other if the code is simple to understand.
+#just add a comment "NEW GAME" before adding your game code after someone others.I will separate them myself
+#Do not remove this written part as it will help other to understand what to do. DO NOT FORGET TO READ CONTRIBUTION GUIDLINES FILE.
 
 
 #NEW GAME
